@@ -70,4 +70,4 @@ amsatnames is just an auxiliary file son NORAD_ID satellites identifiers could b
 
 |     Radio     |   Satellite   |     Tester    |
 | ------------- | ------------- | ------------- |
-|  Icom 7900    |  GreenCube    |     EB1AO     |
+|  Icom 9700    |  GreenCube    |     EB1AO     |
